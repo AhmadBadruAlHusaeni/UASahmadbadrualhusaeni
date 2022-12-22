@@ -106,7 +106,7 @@ cout<<endl;
 
 ## Output
 <br> No. 1 <br>
-<img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/2022-12-22%20(1).png">
+<img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/UAS%20DASPROG%20NO%201.png">
 
 <br> No. 2 <br>
 <img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/2022-12-22%20(2).png">
