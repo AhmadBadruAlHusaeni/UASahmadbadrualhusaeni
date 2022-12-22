@@ -2,10 +2,13 @@
 <br>Mata Kuliah  &ensp;&nbsp;: Dasar Pemrograman
 <br> Nama &emsp;&emsp;&emsp;&ensp;: Ahmad Badru Al Husaeni
 <br>NIM &emsp;&emsp;&emsp;&emsp;&nbsp;:	1227050009
-<br>Jurusan &emsp;&emsp;&nbsp;&ensp;: [Teknik Inf&emsp;ormatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br>Jurusan &emsp;&emsp;&nbsp;&ensp;: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-
+Soal no 1
+Menjelaskan tentang mencari nilai menggunakan array 2 dimensi dengan dibalikannya yg semulanya nilai baris dibalik menjadi kolom dan nilai kolom mejadi baris. <br>
+Soal no 2
+Menjelaskan tentang cara mencari nilai deret bilangan matematika yang tidak habis dibagi 3,5 dan 7 menggunakan array 2 dimensi
 ## Source Code
 Soal No 1
 ```cpp
