@@ -109,4 +109,4 @@ cout<<endl;
 <img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/UAS%20DASPROG%20NO%201.png">
 
 <br> No. 2 <br>
-<img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/2022-12-22%20(2).png">
+<img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/UAS%20DASPROG%20NO%202.png">
