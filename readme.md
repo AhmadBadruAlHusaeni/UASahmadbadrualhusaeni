@@ -6,7 +6,6 @@
 
 ## Deskripsi Umum
 
-
 ## Source Code
 Soal No 1
 ```cpp
