@@ -10,7 +10,6 @@
 Soal No 1
 ```cpp
 #include <iostream>
-
 using namespace std;
 
 int main(){
@@ -59,8 +58,6 @@ cout<<endl;
   }
 }
 ```
-## Output
-
 Soal No 2
 ```ccp
 #include <iostream>
@@ -106,3 +103,5 @@ cout<<endl;
     return 0;
 }
 ```
+
+## Output
